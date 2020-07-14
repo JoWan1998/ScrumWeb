@@ -1,0 +1,76 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Century Gothic;
+
+}
+#editor-render-1 {
+  width: 450px;
+  height: 300px;
+  margin: 24px auto;
+}
+.card
+{
+  -webkit-box-shadow: -2px -1px 49px -20px rgba(0,0,0,0.76);
+  -moz-box-shadow: -2px -1px 49px -20px rgba(0,0,0,0.76);
+   box-shadow: -2px -1px 49px -20px rgba(0,0,0,0.76);
+   border-color: black;
+   border: 1px auto;
+}
+.progress
+{
+  text-align: center;
+  background: orange;
+  color: white;
+  
+}
+.td
+{
+  border-color: black;
+  border: 1px auto;
+  align-items: center;
+}
+#editor-render-0 {
+  width: 450px;
+  height: 300px;
+  margin: 24px auto;
+}
+.row-header{
+  margin: 0px auto;
+  padding: 0px auto;
+}
+.row-content{
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1.5px auto;
+  min-height: 400px;
+}
+.bg-white
+{
+  background-color: white;
+}
+.footer
+{
+  background-color: floralwhite;
+  margin: 0px auto;
+  padding: 20px 0px 20px 0px;
+}
+.jumbotron{
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background: floralwhite;
+  color: black;
+}
+.address{
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+  background-color: white;
+}
+.navbar-dark{
+  background-color: #D4AC0D;
+}
